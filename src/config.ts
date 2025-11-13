@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "李佳華",
+  title: "Project Management & Data Analysis Student",
+  description: "PM、資料分析與財務建模。擅長 Python / Excel / Power BI / 社會活動與展覽企劃",
+  accentColor: "#ea580c",
   social: {
-    email: "your-email@example.com",
+    email: "zz52835283@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
